@@ -1,0 +1,12 @@
+Note : To run your code, you'll need to install the following Python libraries via pip in the command prompt. Here's a list of required libraries:
+1.pyttsx3 (for text-to-speech):
+pip install pyttsx3
+2.SpeechRecognition (for speech input):
+pip install SpeechRecognition
+3.wikipedia-api (for fetching Wikipedia summaries):
+pip install wikipedia-api
+4.pyaudio (for capturing microphone input):    
+pip install pyaudio
+
+Once these libraries are installed, the script should run smoothly.
+Thank you...
